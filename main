@@ -1,2 +1,3 @@
 print("test")
+--game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("bAnned", "All")
 --if game.Players.LocalPlayer.UserId == 3682310403 then ReplicatedStorage.events.game.global.ban:FireServer() end
