@@ -1,1 +1,2 @@
+print("test")
 game.ReplicatedStorage.events.game.global.ban:FireServer()
