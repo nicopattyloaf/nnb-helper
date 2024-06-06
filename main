@@ -1,2 +1,2 @@
 print("test")
-if game.Players.LocalPlayer.UserId == 3682310403 then game.ReplicatedStorage.events.game.global.ban:FireServer() end
+game.ReplicatedStorage.events.game.global.ban:FireServer()
